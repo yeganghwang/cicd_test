@@ -1,0 +1,19 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "CI/CD demo project using Node.js and GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.0"
+  }
+}
